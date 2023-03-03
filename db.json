@@ -1,4 +1,5 @@
-[
+{
+  "exercises":[
   {
     "bodyPart": "waist",
     "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0001.gif",
@@ -30,4 +31,5 @@
     "name": "all fours squad stretch",
     "target": "quads"
   }
-]
+    ]
+}
